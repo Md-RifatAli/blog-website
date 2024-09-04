@@ -1,0 +1,12 @@
+Blog Project :
+
+day-1
+part 1- 
+
+1. Starting template.
+2. Basic structure of HTML
+3. Link CSS.
+4. Add reset codes in CSS
+5. Add Google font
+6. Add font awesome cdn
+7. Get the assets-images
